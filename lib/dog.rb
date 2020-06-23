@@ -1,3 +1,3 @@
 class Dog 
 end 
-Dog.bark
+Dog.object_id
